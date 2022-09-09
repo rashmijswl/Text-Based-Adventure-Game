@@ -1,0 +1,21 @@
+id,name,c1,c2,c3,story,nav,die,win,stranger
+1,home,2,3,7,You wake up and find yourself in home like a normal day,"Press 1 to gome to bathroom , Press 2 to go to bedroom and Press 3 to go to kitchen",0,0,1
+2,bathroom,1,3,8,You are in Bathroom and you are bathing,"Press 1 you go to home , Press 2 to go to bedroom and Press 3 to go to readingroom",0,0,1
+3,bedroom,9,5,6,You are sleeping in your bedroom,"Press 1 to go to reading room, Press 2 to go to porch, and press 3 to go to the suite",0,0,0
+4,porch,,,,Contemplate the snow falling from your porch view. You can lay back because you won the game!,,0,1,0
+5,suite,13,18,11,You rather have your own bathroom than share with other people,"Press 1 to go to the garden, Press 2 to go to the closet, and Press 3 to go to the staircase",0,0,0
+6,attic,14,16,18,You are in the attic looking for an old chair,"Press 1 to go to the living room, Press 2 to go to the dining room, and Press 3 to go to the swimming pool",0,0,0
+7,kitchen,4,15,10,You are in the kitchen preparing dinner,"Press 1 to go to the porch, Press 2 to go to the storage, and Press 3 to go to the staircase",0,0,1
+8,readingroom,11,12,17,You are in the reading room,"Press 1 to go to the garage, Press 2 to go to the garden, and Press 3 to go to the closet",0,0,0
+9,basement,13,5,6,You are in the basement. Its dark in here. Find the light switch,"Press 1 to go to laundry room, 2 to suite and 3 to attic",0,0,1
+10,staircase,,,,You are in the Staircase. You fall down and break your neck. Game over!,,1,0,0
+11,garage,19,20,3,You are in the garage parking your car,"Press 1 to go to the family room, Press 2 to go to the rooftop, and Press 3 to go to the bedroom",0,0,1
+12,garden,1,19,2,Look at the beautiful flowers you grown here,"Press 1 to go to the attic, Press 2 to go to the swimming pool, and Press 3 to go home",0,0,1
+13,laundryroom,7,9,5,You are in laundry room and you are removing your clean cloths,"Press 1 to go to kitchen, Press 2 to go to basement, and press 3 to go to the suite",0,0,0
+14,livingroom,20,14,10,"All the family is reunited in the living room, it is a holiday and it is celebration time",,0,0,0
+15,storage,1,7,12,"There is a secret scroll hidden somewhere in this room, it will lead you to a treasure box.","Press 1 to go to the bathroom, Press 2 to go to the Kitchen, and Press 3 to go to the garden.",0,0,1
+16,diningroom,10,7,2,"There is a secret scroll hidden somewhere in this room, it will lead you to a treasure box.","Press 1 to go to staircase, 2 to kitchen, 3 to go bathroom",0,0,1
+17,Closet,20,7,11,You are in the closet. Suite up! LOL (some HIMYM humor),"Press 1 to go to Rooftop, Press 2 to go to kitchen, and press 3 to go to the garage",0,0,1
+18,swiming pool,9,10,11,You are at the pool.,"Press 1 to go to basement, Press 2 to go to staircase, and press 3 to go to the garage",0,0,1
+19,familyroom,16,12,13,You are at the pool.,"Press 1 to go to the storage, Press 2 to go to the garage, and Press 3 to go to the garden",0,0,0
+20,rooftop,11,3,5,You are at the rooftop .You want to unwind with you family,Press 1 to go to the staircase,0,0,1
