@@ -17,5 +17,5 @@ id,name,c1,c2,c3,story,nav,die,win,stranger
 16,diningroom,10,7,2,"There is a secret scroll hidden somewhere in this room, it will lead you to a treasure box.","Press 1 to go to staircase, 2 to kitchen, 3 to go bathroom",0,0,1
 17,Closet,20,7,11,You are in the closet. Suite up! LOL (some HIMYM humor),"Press 1 to go to Rooftop, Press 2 to go to kitchen, and press 3 to go to the garage",0,0,1
 18,swiming pool,9,10,11,You are at the pool.,"Press 1 to go to basement, Press 2 to go to staircase, and press 3 to go to the garage",0,0,1
-19,familyroom,16,12,13,You are at the pool.,"Press 1 to go to the storage, Press 2 to go to the garage, and Press 3 to go to the garden",0,0,0
+19,familyroom,16,12,13,You are at the family room.,"Press 1 to go to the storage, Press 2 to go to the garage, and Press 3 to go to the garden",0,0,0
 20,rooftop,11,3,5,You are at the rooftop .You want to unwind with you family,Press 1 to go to the staircase,0,0,1
