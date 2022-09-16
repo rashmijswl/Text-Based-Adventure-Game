@@ -12,7 +12,7 @@ id,name,c1,c2,c3,story,nav,die,win,stranger
 11,garage,19,20,3,You are in the garage parking your car,"Press 1 to go to the family room, Press 2 to go to the rooftop, and Press 3 to go to the bedroom",0,0,1
 12,garden,1,19,2,Look at the beautiful flowers you grown here,"Press 1 to go to the attic, Press 2 to go to the swimming pool, and Press 3 to go home",0,0,1
 13,laundryroom,7,9,5,You are in laundry room and you are removing your clean cloths,"Press 1 to go to kitchen, Press 2 to go to basement, and press 3 to go to the suite",0,0,0
-14,livingroom,20,14,10,"All the family is reunited in the living room, it is a holiday and it is celebration time",,0,0,0
+14,livingroom,20,6,10,"All the family is reunited in the living room, it is a holiday and it is celebration time",,0,0,0
 15,storage,1,7,12,"There is a secret scroll hidden somewhere in this room, it will lead you to a treasure box.","Press 1 to go to the bathroom, Press 2 to go to the Kitchen, and Press 3 to go to the garden.",0,0,1
 16,diningroom,10,7,2,"There is a secret scroll hidden somewhere in this room, it will lead you to a treasure box.","Press 1 to go to staircase, 2 to kitchen, 3 to go bathroom",0,0,1
 17,Closet,20,7,11,You are in the closet. Suite up! LOL (some HIMYM humor),"Press 1 to go to Rooftop, Press 2 to go to kitchen, and press 3 to go to the garage",0,0,1
