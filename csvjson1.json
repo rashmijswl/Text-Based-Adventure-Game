@@ -10,7 +10,7 @@
     "Navigation": "Press 1 to go to kitchener 2 to go to waterloo 3 to go to guelph and 4 to go to toronto",
     "win": 0,
     "lose": 0,
-    "host1": 0,
+    "host1": 1,
     "weather": 1
   },
   {
@@ -52,7 +52,7 @@
     "Navigation": "Press 1 to go to waterloo 2 to go to kitchener 3 to go to vaughn and 4 to go to missisauga",
     "win": 0,
     "lose": 0,
-    "host1": 0,
+    "host1": 1,
     "weather": 1
   },
   {
@@ -66,10 +66,10 @@
     "Navigation": "Press 1 to go to guelph 2 to go to missisauga 3 to go to sudbury and 4 to go to sarnia",
     "win": 0,
     "lose": 0,
-    "host1": 0,
+    "host1": 1,
     "weather": 1
   },
-  {
+  
     "id": 6,
     "location": "missisauga",
     "t1": 5,
@@ -108,7 +108,7 @@
     "Navigation": "Press 1 to go to whitby 2 to go to london 3 to go to cambridge and 4 to go to sarnia",
     "win": 0,
     "lose": 0,
-    "host1": 0,
+    "host1": 1,
     "weather": 1
   },
   {
@@ -122,7 +122,7 @@
     "Navigation": "Press 1 to go to maple 2 to go to tottenham 3 to go to thunder bay and 4 to go to ottawa",
     "win": 0,
     "lose": 0,
-    "host1": 0,
+    "host1": 1,
     "weather": 0
   },
   {
@@ -192,7 +192,7 @@
     "Navigation": "Press 1 to go to thunder bay 2 to go to whitby 3 to go to north york and 4 to go to maple",
     "win": 0,
     "lose": 0,
-    "host1": 0,
+    "host1": 1,
     "weather": 1
   },
   {
@@ -220,7 +220,7 @@
     "Navigation": "Press 1 to go to ottawa 2 to go to north york 3 to go to markham and 4 to go to london",
     "win": 0,
     "lose": 0,
-    "host1": 0,
+    "host1": 1,
     "weather": 0
   },
   {
@@ -234,7 +234,7 @@
     "Navigation": "Press 1 to go to hamilton 2 to go to maple 3 to go to sarnia and 4 to go to tottenham",
     "win": 0,
     "lose": 0,
-    "host1": 0,
+    "host1": 1,
     "weather": 0
   },
   {
@@ -262,7 +262,7 @@
     "Navigation": "Press 1 to go to north york 2 to go to whitby 3 to go to markham and 4 to go to tottenham",
     "win": 0,
     "lose": 0,
-    "host1": 0,
+    "host1": 1,
     "weather": 1
   },
   {
@@ -276,7 +276,7 @@
     "Navigation": "Press 1 to go to east york 2 to go to north york 3 to go to sudbury and 4 to go to hamilton",
     "win": 0,
     "lose": 0,
-    "host1": 0,
+    "host1": 1,
     "weather": 1
   }
 ]
